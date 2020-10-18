@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Portfolio",
+    "description": "I am a web development engineer and I use react  This project is a resume template that can be used as the project home page or resume page",
+    "image": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1600794962/profile-tal_tnio6v.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "Daniel",
+      "city": "Bat Yam",
+      "state": "IL",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tal.lahyani/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tal-lahyani/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/talah221",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a Thinkerner and am always interested in playing around with new technologies but these are the ones that have really won me over.",
+    "education": [
+      {
+        "school": "Bootcamp – Coding Academy",
+        "degree": "Full Stack/Front End Developer",
+        "graduated": "October 2020",
+        "description": "An intensive coding bootcamp (640 hours) that qualifies Full stack developers. Built several projects, all code is available on Github for code review. "
+      }
+
+    ],
+    "work": [
+      {
+        "company": "Job Company",
+        "title": "Job Title",
+        "years": "2019 - 2020",
+        "description": "Job Desc"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "description": "React was my first framework. It has grown on me though and I will continue to use it going forward. I have built many ReactJS based website and I'm sure that for now, React is my favorite (this personal site based on React).",
+        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037790/React_cozof3_t2ybhi.png"
+      },
+      {
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in almost all of my end-2-end projects",
+        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037789/node_p0txeo_bid4ep.png"
+      },
+      {
+        "name": "MongoDB",
+        "description": "In the context of MongoDB, for many applications, the ease of use of MongoDB better suits my needs and it is enjoyable to work with",
+        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037791/mongodb_sug90z_y3undn.png"
+      },
+      {
+        "name": "Vue",
+        "description": "Vue was the second framework I started to work with. The learning curve in this framework is amazing and just after a few days, I could build an end-2-end application. For sure, Vue is a wonderful framework to work with.",
+        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037793/vue_t0kitl_g8tc81.png"
+      },
+      {
+        "name": "Angular",
+        "description": "Learning Angular was a long time relationship, it is easy to feel the way this framework is intended to take part in large applications. Powerful tool",
+        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037791/angular_gz3ngr_e3blmf.png"
+      },
+      {
+        "name": "Express",
+        "description": "As Express writes in their documentation - Fast, opinionated, minimalist web framework for Node.js. For a Node developer, Express is a helpful framework.",
+        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037791/eexpress_c5bjcm_rlvrlm.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
