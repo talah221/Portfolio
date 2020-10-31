@@ -20594,7 +20594,7 @@
                             'a',
                             {
                               className: 'btn btn-primary btn js-scroll px-4',
-                              href: '#work',
+                              href: '#projects',
                               role: 'button',
                             },
                             'View My Work'
