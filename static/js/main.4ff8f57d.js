@@ -29373,13 +29373,13 @@
     function r() {
       var e = [
         {
-          name: 'Book-Master',
+          name: 'Google-Maps',
           description:
-            'Books inventory management system, Includes CRUD, sorting and language support',
-          lineLink: 'https://talah221.github.io/BooksManager/?',
-          codeLink: 'https://github.com/talah221/BooksManager',
+            'A 3-Hour project made with Google Maps API. Responsive Google\'s map, with a option to add Markers to the map.' ,
+          lineLink: 'https://talah221.github.io/Google-Maps-ReactJS/#/',
+          codeLink: 'https://github.com/talah221/Google-Maps-ReactJS',
           imgUrl:
-            'https://res.cloudinary.com/cloudinary-img/image/upload/v1602434172/Mister%20book%20vue/home_page_hbi84t.jpg',
+            'https://res.cloudinary.com/dsrtl41yz/image/upload/v1604162185/google-maps_ze77eb.jpg',
         },
         {
           name: 'AppSus',
@@ -29393,7 +29393,7 @@
         {
           name: 'Mister Toy',
           description:
-            'The app Mister toy, build for shop owners, and helps them to manage their shop.',
+            'An app built with React in the front, and NodeJS on the back, and more advanced tehcnologies such as Redux, Sass, MaterialUI, And more.',
           lineLink: 'https://mister-toy-tal.herokuapp.com/',
           codeLink: 'https://github.com/talah221/mister-toy-tal',
           imgUrl:
@@ -29403,11 +29403,20 @@
         {
           name: 'Meme-Generator',
           description:
-            "Meme-me It's a free online image maker that allows you to add custom resizable text to images.",
+            "Meme-me It's a responsive free online image maker that allows you to add custom resizable text to images. (Meme Generator)",
           lineLink: 'https://talah221.github.io/Meme-Generator/',
           codeLink: 'https://github.com/talah221/Meme-Generator',
           imgUrl:
             'https://res.cloudinary.com/cloudinary-img/image/upload/v1602327387/Shahar%20Sadof%20Dev%20-%20Portfolio/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash_n1dr2g.jpg',
+        },
+        {
+          name: 'Weather-Show',
+          description:
+            "Responsive Frontend application built with VueJS, which you can search for any location and see it's Weather. by default, the weather is your curren't position.",
+          lineLink: 'https://weather-show-vue.herokuapp.com/#/',
+          codeLink: 'https://github.com/talah221/weather-show-vue',
+          imgUrl:
+            'https://res.cloudinary.com/dsrtl41yz/image/upload/v1604162587/Wea_im1vcx.jpg',
         },
 
       ];
