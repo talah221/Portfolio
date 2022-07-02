@@ -22604,9 +22604,9 @@
                           { className: 'address' },
                           'Tal Lahyani',
                           l.a.createElement('br', null),
-                          'Daniel Street ',
+                          '-- ',
                           l.a.createElement('br', null),
-                          'Bat Yam, IL',
+                          'Rishon LeZiyon, IL',
                           l.a.createElement('br', null),
                           '0544777605',
                           l.a.createElement('br', null),
@@ -23193,7 +23193,7 @@
                     a.a.createElement(
                       'h3',
                       { className: 'project-details-title' },
-                      'QuizUp'
+                      'QuizUp (2020)'
                     ),
                     a.a.createElement(
                       'div',
@@ -29373,7 +29373,7 @@
     function r() {
       var e = [
         {
-          name: 'Google-Maps',
+          name: 'Google-Maps (2020)',
           description:
             'A 3-Hour project made with Google Maps API. Responsive Google\'s map, with a option to add Markers to the map.' ,
           lineLink: 'https://talah221.github.io/Google-Maps-ReactJS/#/',
@@ -29382,7 +29382,7 @@
             'https://res.cloudinary.com/dsrtl41yz/image/upload/v1604162185/google-maps_ze77eb.jpg',
         },
         {
-          name: 'AppSus',
+          name: 'AppSus (2020) ',
           description:
             'AppSus is a demo-like version of GoogleNotes and Gmail, developed with a partner (2 Apps for 2 Developers).',
           lineLink: 'https://talah221.github.io/Appsus/?#/email',
@@ -29391,7 +29391,7 @@
             'https://res.cloudinary.com/cloudinary-img/image/upload/v1602325407/Shahar%20Sadof%20Dev%20-%20Portfolio/edho-pratama-T6fDN60bMWY-unsplash_xieob4.jpg',
         },
         {
-          name: 'Mister Toy',
+          name: 'Mister Toy (2020)',
           description:
             'An app built with React in the front, and NodeJS on the back, and more advanced tehcnologies such as Redux, Sass, MaterialUI, And more.',
           lineLink: 'https://mister-toy-tal.herokuapp.com/',
@@ -29401,7 +29401,7 @@
         },
 
         {
-          name: 'Meme-Generator',
+          name: 'Meme-Generator (2020)',
           description:
             "Meme-me It's a responsive free online image maker that allows you to add custom resizable text to images. (Meme Generator)",
           lineLink: 'https://talah221.github.io/Meme-Generator/',
@@ -29410,7 +29410,7 @@
             'https://res.cloudinary.com/cloudinary-img/image/upload/v1602327387/Shahar%20Sadof%20Dev%20-%20Portfolio/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash_n1dr2g.jpg',
         },
         {
-          name: 'Weather-Show',
+          name: 'Weather-Show (2020)',
           description:
             "Responsive Frontend application built with VueJS, which you can search for any location and see it's Weather. by default, the weather is your curren't position.",
           lineLink: 'https://weather-show-vue.herokuapp.com/#/',
