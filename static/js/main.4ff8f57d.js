@@ -20578,7 +20578,7 @@
                             { className: 'text-slider' },
                             l.a.createElement(u.a, {
                               strings: [
-                                'Front-End Developer / Full-Stack Developer',
+                                'Software Developer',
                               ],
                               typeSpeed: 60,
                               backDelay: 3e3,
@@ -22771,7 +22771,7 @@
                             l.a.createElement(
                               'span',
                               null,
-                              'Bat Yam, IL',
+                              'Rishon LeZiyon, IL',
                               l.a.createElement('br', null)
                             ),
                             l.a.createElement('span', null, '0544777605'),
