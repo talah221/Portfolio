@@ -22771,7 +22771,7 @@
                             l.a.createElement(
                               'span',
                               null,
-                              'Bat Yam, IL',
+                              'Rishon LeZiyon, IL',
                               l.a.createElement('br', null)
                             ),
                             l.a.createElement('span', null, '0544777605'),
