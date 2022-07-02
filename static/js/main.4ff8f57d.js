@@ -22754,7 +22754,7 @@
                       l.a.createElement(
                         'p',
                         { id: 'white-text' },
-                        'Full-Stack / Front-End Web Developer with knowledge and experience writing single-page- applications using the latest WEB technologies such as Node.js, React.js, Vue.js, Vuex and Angular.'
+                        'Software Developer with knowledge and experience writing single-page- applications using the latest WEB technologies. have a constant desire to learn on his own and from others. '
                       ),
                       l.a.createElement(
                         'div',
@@ -22771,7 +22771,7 @@
                             l.a.createElement(
                               'span',
                               null,
-                              'Rishon LeZiyon, IL',
+                              'Bat Yam, IL',
                               l.a.createElement('br', null)
                             ),
                             l.a.createElement('span', null, '0544777605'),
