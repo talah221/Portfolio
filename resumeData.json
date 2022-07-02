@@ -11,9 +11,9 @@
     "project": "https://github.com/nordicgiant2/react-nice-resume",
     "address": {
       "street": "Daniel",
-      "city": "Bat Yam",
+      "city": "Rishon Leziyon",
       "state": "IL",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -48,10 +48,10 @@
     ],
     "work": [
       {
-        "company": "Job Company",
-        "title": "Job Title",
-        "years": "2019 - 2020",
-        "description": "Job Desc"
+        "company": "Leap4",
+        "title": "Software Developer",
+        "years": "2021 - 2022",
+        "description": "Software Developer Working & Managing end to end tasks, using React & Typescript, Nest.js, MongoDB, AWS, GCP, Docker and more."
       }
     ],
     "skills": [
@@ -67,7 +67,7 @@
       },
       {
         "name": "MongoDB",
-        "description": "In the context of MongoDB, for many applications, the ease of use of MongoDB better suits my needs and it is enjoyable to work with",
+        "description": "In the context of MongoDB, for many applications, the ease of use of MongoDB better suits my needs and it is enjoyable to work with. have knowledge with aggregations, complicated pipelines and queries",
         "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037791/mongodb_sug90z_y3undn.png"
       },
       {
@@ -76,21 +76,31 @@
         "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037793/vue_t0kitl_g8tc81.png"
       },
       {
-        "name": "Angular",
-        "description": "Learning Angular was a long time relationship, it is easy to feel the way this framework is intended to take part in large applications. Powerful tool",
-        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037791/angular_gz3ngr_e3blmf.png"
+        "name": "Nest.js",
+        "description": "A progressive Node.js framework for building efficient, reliable and scalable server-side applications.",
+        "imgUrl": "https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667"
       },
       {
-        "name": "Express",
-        "description": "As Express writes in their documentation - Fast, opinionated, minimalist web framework for Node.js. For a Node developer, Express is a helpful framework.",
-        "imgUrl": "https://res.cloudinary.com/dsrtl41yz/image/upload/v1603037791/eexpress_c5bjcm_rlvrlm.png"
+        "name": "Docker",
+        "description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.",
+        "imgUrl": "https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png"
+      },
+      {
+        "name": "AWS",
+        "description": "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform",
+        "imgUrl": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "TypeScript",
+        "description": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+        "imgUrl": "https://dev.to/this-is-learning/typescript-tips-tricks-tuple-3ep7"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
+        "title": "Canadian Wanderlust (2020)",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
