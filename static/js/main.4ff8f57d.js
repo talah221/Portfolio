@@ -22754,7 +22754,7 @@
                       l.a.createElement(
                         'p',
                         { id: 'white-text' },
-                        'Software Developer with knowledge and experience writing single-page- applications using the latest WEB technologies. have a constant desire to learn on his own and from others. '
+                        'Software Developer with knowledge and experience writing single-page- applications using the latest WEB technologies. have a constant desire to learn on by myself and from others. '
                       ),
                       l.a.createElement(
                         'div',
